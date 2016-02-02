@@ -1,0 +1,9 @@
+{
+    "name": "ansi-regex",
+    "description": "Regular expression for matching ANSI escape codes",
+    "repos": "https://github.com/sindresorhus/ansi-regex",
+    "tag": "master",
+    "reposType": "npm",
+    "dependencies": {},
+    "version": "2.0.0"
+}
